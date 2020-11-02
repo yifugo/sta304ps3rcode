@@ -34,6 +34,7 @@ census_data <- census_data %>%
 ## Oct 30, 2020
 
 This analysis is done in R. 
+R code files supporting this analysis are available at： https://github.com/yifugo/sta304ps3rcode/blob/main/PS3_Report_YutingGe1-copy.Rmd
 
 
 # Model
